@@ -30,9 +30,7 @@ body{
     box-shadow: 0 5px 7px rgba(0, 0, 0, .1);
     transition: all 1s ease;
     margin: 10px;
-    max-width: 900px;
     background-color: #c7eef3;
-
 
     /*border: solid thin blue;*/
 }
@@ -235,8 +233,9 @@ body{
         
     }
     .logo{
-        padding: 10px;
+        padding: 5px;
         margin: 5px;
+        width: 90px;
         
     }
     .navegacion ul li {
